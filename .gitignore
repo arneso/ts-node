@@ -5,3 +5,5 @@ coverage/
 npm-debug.log
 dist/
 typings/
+src/**/*.js
+src/**/*.map
